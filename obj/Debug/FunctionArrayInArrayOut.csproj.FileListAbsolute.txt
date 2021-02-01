@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\bin\Debug\FunctionArrayInArrayOut.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\bin\Debug\FunctionArrayInArrayOut.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\bin\Debug\FunctionArrayInArrayOut.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\obj\Debug\FunctionArrayInArrayOut.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\obj\Debug\FunctionArrayInArrayOut.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\obj\Debug\FunctionArrayInArrayOut.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\04-FuctionArrayInArrayOut\stuff\FunctionArrayInArrayOut\obj\Debug\FunctionArrayInArrayOut.pdb
